@@ -1,0 +1,30 @@
+.circle{
+    z-index: -1;
+}
+.search-bar{
+    background-color: white;
+    border-radius: 5px;
+    border: 3px solid rgba(120, 120, 120, 0.374);
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin-top: 2rem;
+    width: 440px;
+}
+
+.search-bar input{
+    border: none;
+    outline: none;
+}
+
+.img-container{
+    border: 8px solid rgba(255 , 255 , 255 , 0.12);
+    border-radius: 15rem 15rem 0 0 ;
+    overflow: hidden;
+}
+
+@media screen and ( max-width : 700px){
+    .search-bar{
+        width: 350px;
+    }
+}

@@ -1,0 +1,23 @@
+.accordion{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: none;
+}
+.accordionItem{
+    border: 2px solid hsl(240, 89%, 96%);
+    transform: scale(1.05);
+}
+.accordionButton{
+    background-color: #eeeefe;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.accordionButton svg{
+   fill: rgb(67, 67, 235);
+}
+
+.accordionPannelText{
+    line-height: 30px;
+}

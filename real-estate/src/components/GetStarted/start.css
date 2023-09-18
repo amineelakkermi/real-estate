@@ -1,0 +1,14 @@
+.start{
+    background-color: rgb(41, 114, 197);
+    border: 8px solid rgb(20, 112, 217);
+}
+.start-button{
+    background-color: rgb(115, 163, 242);
+    border: 2px solid white;
+    transition: 0.3s ease;
+
+}
+
+.start-button:hover{
+    transform: scale(1.025);
+}

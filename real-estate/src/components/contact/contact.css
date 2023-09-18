@@ -1,0 +1,12 @@
+.contact-container{
+    border: 2px solid #eeefee;
+}
+
+.contact-container-bg{
+    background-color: rgb(229, 240, 249);
+}
+
+.text-button{
+    color: rgb(0, 162, 255);
+    letter-spacing: 0.2px;
+}

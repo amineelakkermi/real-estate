@@ -1,0 +1,11 @@
+ul li a{
+    cursor: pointer;
+}
+
+.btnContact{
+    background-color: rgb(24, 81, 225);
+}
+.scale-up-center {
+	-webkit-animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+	animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}

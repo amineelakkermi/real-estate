@@ -1,0 +1,8 @@
+export  { default as Navbar } from './navbar/Navbar'
+export  { default as Hero } from './hero/Hero'
+export  { default as Brand } from './brand/Brand'
+export  { default as Residence } from './residence/Residence'
+export  { default as Value } from './value/Value'
+export  { default as Contact } from './contact/Contact'
+export  { default as GetStarted } from './GetStarted/GetStarted'
+export  { default as Footer } from './footer/Footer'
